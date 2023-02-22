@@ -1,0 +1,16 @@
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\bin\Debug\ZahlensystemKonverter.exe.config
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\bin\Debug\ZahlensystemKonverter.exe
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\bin\Debug\ZahlensystemKonverter.pdb
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.csproj.AssemblyReference.cache
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.csproj.CoreCompileInputs.cache
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.exe
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.pdb
+C:\Users\hofma\OneDrive\Desktop\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\bin\Debug\ZahlensystemKonverter.exe.config
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\bin\Debug\ZahlensystemKonverter.exe
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\bin\Debug\ZahlensystemKonverter.pdb
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.csproj.AssemblyReference.cache
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.csproj.CoreCompileInputs.cache
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.exe
+C:\GitHub\MyProjects\ZahlensystemKonverter\ZahlensystemKonverter\obj\Debug\ZahlensystemKonverter.pdb

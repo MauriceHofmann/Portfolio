@@ -1,0 +1,30 @@
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\bin\Debug\VernamWPF.exe.config
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\bin\Debug\VernamWPF.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\bin\Debug\VernamWPF.pdb
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\MainWindow.g.cs
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\App.g.cs
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF_MarkupCompile.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF_MarkupCompile.lref
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\MainWindow.baml
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.g.resources
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.Properties.Resources.resources
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.pdb
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\bin\Debug\VernamWPF.exe.config
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\bin\Debug\VernamWPF.exe
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\bin\Debug\VernamWPF.pdb
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\MainWindow.g.cs
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\App.g.cs
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF_MarkupCompile.cache
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF_MarkupCompile.lref
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\MainWindow.baml
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.g.resources
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.Properties.Resources.resources
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.exe
+C:\Users\MAUHOFM\Documents\GitHub\SAE-Projekte\Stringzerlegung & Zeichenkonvertierung\VernamWPF\VernamWPF\obj\Debug\VernamWPF.pdb
