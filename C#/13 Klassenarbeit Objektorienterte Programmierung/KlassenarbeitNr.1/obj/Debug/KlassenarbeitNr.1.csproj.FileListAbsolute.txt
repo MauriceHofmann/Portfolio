@@ -1,0 +1,7 @@
+C:\Users\maurice.hofmann\Desktop\KlassenarbeitNr.1\KlassenarbeitNr.1\bin\Debug\KlassenarbeitNr.1.exe.config
+C:\Users\maurice.hofmann\Desktop\KlassenarbeitNr.1\KlassenarbeitNr.1\bin\Debug\KlassenarbeitNr.1.exe
+C:\Users\maurice.hofmann\Desktop\KlassenarbeitNr.1\KlassenarbeitNr.1\bin\Debug\KlassenarbeitNr.1.pdb
+C:\Users\maurice.hofmann\Desktop\KlassenarbeitNr.1\KlassenarbeitNr.1\obj\Debug\KlassenarbeitNr.1.csprojAssemblyReference.cache
+C:\Users\maurice.hofmann\Desktop\KlassenarbeitNr.1\KlassenarbeitNr.1\obj\Debug\KlassenarbeitNr.1.csproj.CoreCompileInputs.cache
+C:\Users\maurice.hofmann\Desktop\KlassenarbeitNr.1\KlassenarbeitNr.1\obj\Debug\KlassenarbeitNr.1.exe
+C:\Users\maurice.hofmann\Desktop\KlassenarbeitNr.1\KlassenarbeitNr.1\obj\Debug\KlassenarbeitNr.1.pdb
