@@ -1,0 +1,30 @@
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\bin\Debug\MinMaxAvg.exe.config
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\bin\Debug\MinMaxAvg.exe
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\bin\Debug\MinMaxAvg.pdb
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.csprojAssemblyReference.cache
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MainWindow.g.cs
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\App.g.cs
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg_MarkupCompile.cache
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg_MarkupCompile.lref
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MainWindow.baml
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.g.resources
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.Properties.Resources.resources
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.GenerateResource.cache
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.exe
+C:\Users\maurice.hofmann\Desktop\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.pdb
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\bin\Debug\MinMaxAvg.exe.config
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\bin\Debug\MinMaxAvg.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\bin\Debug\MinMaxAvg.pdb
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MainWindow.g.cs
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\App.g.cs
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg_MarkupCompile.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg_MarkupCompile.lref
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MainWindow.baml
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg.g.resources
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg.Properties.Resources.resources
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Klassenarbeit Nr.1\MinMaxAvg - Maurice Hofmann\MinMaxAvg\obj\Debug\MinMaxAvg.pdb
