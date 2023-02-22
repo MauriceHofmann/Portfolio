@@ -1,0 +1,20 @@
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\bin\Debug\Vererbung.exe.config
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\bin\Debug\Vererbung.exe
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\bin\Debug\Vererbung.pdb
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\obj\Debug\Vererbung.Form1.resources
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\obj\Debug\Vererbung.Properties.Resources.resources
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\obj\Debug\Vererbung.exe
+C:\Users\MAUHOFM\Desktop\Vererbung\Vererbung\obj\Debug\Vererbung.pdb
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\bin\Debug\Vererbung.exe.config
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\bin\Debug\Vererbung.exe
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\bin\Debug\Vererbung.pdb
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.AssemblyReference.cache
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\obj\Debug\Vererbung.Form1.resources
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\obj\Debug\Vererbung.Properties.Resources.resources
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.GenerateResource.cache
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.CoreCompileInputs.cache
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\obj\Debug\Vererbung.exe
+C:\GitHub\Learn-CSharp\Kapitel 05 Objektorientierte Programmierung\Vererbung\Vererbung\obj\Debug\Vererbung.pdb

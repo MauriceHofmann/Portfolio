@@ -1,0 +1,10 @@
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe.config
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.pdb
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.Form1.resources
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.Properties.Resources.resources
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.exe
+C:\Users\MAUHOFM\Desktop\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.pdb

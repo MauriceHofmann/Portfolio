@@ -1,0 +1,8 @@
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\obj\Debug\06-Pruefung_2021-Winter_FA228.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\obj\Debug\06-Pruefung_2021-Winter_FA228.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\bin\Debug\06-Pruefung_2021-Winter_FA228.exe.config
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\bin\Debug\06-Pruefung_2021-Winter_FA228.exe
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\bin\Debug\06-Pruefung_2021-Winter_FA228.pdb
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\obj\Debug\06-Pruefung_2021-Winter_FA228.exe
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\obj\Debug\06-Pruefung_2021-Winter_FA228.pdb
+C:\Users\MAUHOFM\Desktop\Objektorientierte Programmierung\04_Übungsaufgaben\Prüfungsaufgaben\06-Pruefung_2021-Winter_FA228\obj\Debug\06-Pruefung_2021-Winter_FA228.csproj.SuggestedBindingRedirects.cache

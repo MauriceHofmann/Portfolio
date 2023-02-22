@@ -1,0 +1,82 @@
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\bin\Debug\SocketClient.exe.config
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\bin\Debug\SocketClient.exe
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\bin\Debug\SocketClient.pdb
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\App.g.cs
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient_MarkupCompile.cache
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient_MarkupCompile.lref
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\Views\MainWindowView.baml
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient.g.resources
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient.exe
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient.pdb
+C:\Users\ruediger.lokal.user\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\bin\Debug\SocketClient.exe.config
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\bin\Debug\SocketClient.exe
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\bin\Debug\SocketClient.pdb
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\App.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient_MarkupCompile.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient_MarkupCompile.lref
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\Views\MainWindowView.baml
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient.g.resources
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient.exe
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalClient\obj\Debug\SocketClient.pdb
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\bin\Debug\SocketClient.exe.config
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\bin\Debug\SocketClient.exe
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\bin\Debug\SocketClient.pdb
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\App.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient_MarkupCompile.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient_MarkupCompile.lref
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\Views\MainWindowView.baml
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient.g.resources
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient.exe
+C:\Users\Bx\Documents\_Pool\FI LF01-05\LS05.2 Daten in Datenbanken\UniversalClient\UniversalClient\obj\Debug\SocketClient.pdb
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\bin\Debug\SocketClient.exe.config
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\bin\Debug\SocketClient.exe
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\bin\Debug\SocketClient.pdb
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\App.g.cs
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient_MarkupCompile.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient_MarkupCompile.lref
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\Views\MainWindowView.baml
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.g.resources
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.exe
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\Projektarbeit SmartHome\UniversalClient\UniversalClient\obj\Debug\SocketClient.pdb
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\bin\Debug\SocketClient.exe.config
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\bin\Debug\SocketClient.exe
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\bin\Debug\SocketClient.pdb
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\App.g.cs
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient_MarkupCompile.cache
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient_MarkupCompile.lref
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\Views\MainWindowView.baml
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.g.resources
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.exe
+C:\Users\hofma\OneDrive\Desktop\UniversalClient\UniversalClient\obj\Debug\SocketClient.pdb

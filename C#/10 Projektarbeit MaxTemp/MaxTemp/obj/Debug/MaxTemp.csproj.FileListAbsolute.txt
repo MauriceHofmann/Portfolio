@@ -1,0 +1,32 @@
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.AssemblyReference.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\App.g.cs
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\bin\Debug\temps.csv
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+C:\Users\hofma\OneDrive\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1.Lehrjahr\MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\bin\Debug\temps.csv
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\App.g.cs
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Projektarbeit MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb

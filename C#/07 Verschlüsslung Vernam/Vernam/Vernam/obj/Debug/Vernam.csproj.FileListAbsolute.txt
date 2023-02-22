@@ -1,0 +1,15 @@
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren - Übungen\Verschlüsslung Vernam\Vernam\Vernam\bin\Debug\Vernam.exe.config
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren - Übungen\Verschlüsslung Vernam\Vernam\Vernam\bin\Debug\Vernam.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren - Übungen\Verschlüsslung Vernam\Vernam\Vernam\bin\Debug\Vernam.pdb
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren - Übungen\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren - Übungen\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren - Übungen\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren - Übungen\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.pdb
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\bin\Debug\Vernam.exe.config
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\bin\Debug\Vernam.exe
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\bin\Debug\Vernam.pdb
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.exe
+C:\Users\MAUHOFM\Desktop\Portfolio\C#\Verschlüsslung Vernam\Vernam\Vernam\obj\Debug\Vernam.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ereigniskette", "Ereigniskette\Ereigniskette.csproj", "{87D3ED2A-4580-4900-9892-2E7FC0C7DFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D3ED2A-4580-4900-9892-2E7FC0C7DFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D3ED2A-4580-4900-9892-2E7FC0C7DFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D3ED2A-4580-4900-9892-2E7FC0C7DFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D3ED2A-4580-4900-9892-2E7FC0C7DFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10524970-32B0-4F41-90B4-C2EC80101487}
+	EndGlobalSection
+EndGlobal

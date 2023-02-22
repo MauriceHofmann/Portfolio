@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UListenfeld", "UListenfeld\UListenfeld.csproj", "{39C853B1-E8BB-446A-870C-E25F7701829C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C853B1-E8BB-446A-870C-E25F7701829C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C853B1-E8BB-446A-870C-E25F7701829C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C853B1-E8BB-446A-870C-E25F7701829C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C853B1-E8BB-446A-870C-E25F7701829C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC06E80E-5F36-4216-8862-31F274CC8A86}
+	EndGlobalSection
+EndGlobal

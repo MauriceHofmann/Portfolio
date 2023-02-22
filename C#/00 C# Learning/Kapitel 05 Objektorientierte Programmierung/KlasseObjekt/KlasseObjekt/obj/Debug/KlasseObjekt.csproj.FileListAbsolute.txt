@@ -1,0 +1,10 @@
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe.config
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.pdb
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Form1.resources
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Properties.Resources.resources
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.exe
+C:\Users\MAUHOFM\Desktop\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.pdb

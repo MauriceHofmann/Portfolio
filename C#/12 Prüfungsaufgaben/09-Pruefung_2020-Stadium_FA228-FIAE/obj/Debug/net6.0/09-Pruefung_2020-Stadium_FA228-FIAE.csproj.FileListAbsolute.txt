@@ -1,0 +1,15 @@
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\bin\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.exe
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\bin\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.deps.json
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\bin\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.runtimeconfig.json
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\bin\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.dll
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\bin\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.pdb
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.AssemblyInfoInputs.cache
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.AssemblyInfo.cs
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.dll
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\refint\09-Pruefung_2020-Stadium_FA228-FIAE.dll
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.pdb
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\09-Pruefung_2020-Stadium_FA228-FIAE.genruntimeconfig.cache
+C:\Users\MAUHOFM\Desktop\Prüfungsaufgaben\Prüfungsaufgaben\09-Pruefung_2020-Stadium_FA228-FIAE\obj\Debug\net6.0\ref\09-Pruefung_2020-Stadium_FA228-FIAE.dll

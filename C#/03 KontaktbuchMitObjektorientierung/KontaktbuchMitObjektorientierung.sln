@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontaktbuchMitObjektorientierung", "KontaktbuchMitObjektorientierung\KontaktbuchMitObjektorientierung.csproj", "{12835E7F-412E-4DE1-BC02-906E88983467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12835E7F-412E-4DE1-BC02-906E88983467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12835E7F-412E-4DE1-BC02-906E88983467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12835E7F-412E-4DE1-BC02-906E88983467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12835E7F-412E-4DE1-BC02-906E88983467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD23D46-CEC4-4C9F-A23D-9D6094B912E5}
+	EndGlobalSection
+EndGlobal

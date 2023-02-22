@@ -1,0 +1,31 @@
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\bin\Debug\HostListeWPF.exe.config
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\bin\Debug\HostListeWPF.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\bin\Debug\HostListeWPF.pdb
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\App.g.cs
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF_MarkupCompile.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF_MarkupCompile.lref
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\MainWindow.baml
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.g.resources
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.Properties.Resources.resources
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.exe
+C:\Users\MAUHOFM\Documents\Ausbildung\Berufsschule\Berufsfachliche Kompetenz - Softwareentwicklung\1. Lehrjahr\Programmieren\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.pdb
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\bin\Debug\HostListeWPF.exe.config
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\bin\Debug\HostListeWPF.exe
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\bin\Debug\HostListeWPF.pdb
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.csproj.AssemblyReference.cache
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\MainWindow.g.cs
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\App.g.cs
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF_MarkupCompile.cache
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF_MarkupCompile.lref
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\MainWindow.baml
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.g.resources
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.Properties.Resources.resources
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.csproj.GenerateResource.cache
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.exe
+C:\GitHub\Berufschule-Softwareentwicklung\1. Lehrjahr\Hostliste\HostListeWPF\HostListeWPF\obj\Debug\HostListeWPF.pdb

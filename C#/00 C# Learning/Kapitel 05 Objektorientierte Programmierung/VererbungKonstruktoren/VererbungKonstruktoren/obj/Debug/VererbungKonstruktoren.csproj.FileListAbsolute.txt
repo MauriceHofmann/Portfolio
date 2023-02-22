@@ -1,0 +1,10 @@
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\bin\Debug\VererbungKonstruktoren.exe.config
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\bin\Debug\VererbungKonstruktoren.exe
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\bin\Debug\VererbungKonstruktoren.pdb
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\obj\Debug\VererbungKonstruktoren.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\obj\Debug\VererbungKonstruktoren.Form1.resources
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\obj\Debug\VererbungKonstruktoren.Properties.Resources.resources
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\obj\Debug\VererbungKonstruktoren.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\obj\Debug\VererbungKonstruktoren.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\obj\Debug\VererbungKonstruktoren.exe
+C:\Users\MAUHOFM\Desktop\VererbungKonstruktoren\VererbungKonstruktoren\obj\Debug\VererbungKonstruktoren.pdb
