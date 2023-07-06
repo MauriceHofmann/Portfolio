@@ -9,7 +9,6 @@
         Title="MenuWindow" Height="460" Width="800" Background="LightGray">
     <Grid>
         <Rectangle Fill="Black" HorizontalAlignment="Left" Height="54" Stroke="Black" VerticalAlignment="Top" Width="795" Margin="0,0,-0.333,0"/>
-        <Image HorizontalAlignment="Left" Height="54" VerticalAlignment="Top" Width="226" Source="Mercedes-Benz Bank Logo.png" Margin="10,0,0,0"/>
         <Button x:Name="btnKontostandAbfragen" Content="Kontostand abfragen" HorizontalAlignment="Left" Margin="45,122,0,0" VerticalAlignment="Top" Width="306" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="btnKontostandAbfragen_Click"/>
         <Button x:Name="BtnEinzahlen" Content="Einzahlung" HorizontalAlignment="Left" Margin="45,201,0,0" VerticalAlignment="Top" Width="306" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="BtnEinzahlen_Click"/>
         <Button x:Name="BtnAuszahlen" Content="Auszahlung" HorizontalAlignment="Left" Margin="45,284,0,0" VerticalAlignment="Top" Width="306" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="BtnAuszahlen_Click"/>

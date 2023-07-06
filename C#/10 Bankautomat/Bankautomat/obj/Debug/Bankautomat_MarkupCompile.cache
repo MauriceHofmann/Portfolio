@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\
+C:\GitHub\Portfolio\C#\10 Bankautomat\Bankautomat\obj\Debug\
 Bankautomat
 none
 false
 DEBUG;TRACE
-C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\App.xaml
-61499677927
+C:\GitHub\Portfolio\C#\10 Bankautomat\Bankautomat\App.xaml
+62113147697
 
-11-69926099
-14-1290796308
+121244607966
+14-2011955616
 AuszahlenWindow.xaml;EinzahlenWindow.xaml;KontostandWindow.xaml;MainWindow.xaml;MenuWindow.xaml;NeuesKontoFormularWindow.xaml;
 
-False
+True
 
